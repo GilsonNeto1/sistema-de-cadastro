@@ -1,2 +1,2 @@
 console.log("Rodando o sistema de gerenciamento de jogos")
-console.log("Aplicação teste)
+console.log("Aplicação teste")
